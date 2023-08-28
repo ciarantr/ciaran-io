@@ -18,7 +18,7 @@ Full-Stack Software Development Diploma, 2023 TBA (awaiting final result)
 
 ## 📃 Projects
 
-### [Himawari sushi](https://github.com/ciaran-io/himawari-sushi) ![logo](https://github.com/ciaran-io/himawari-sushi/blob/main/docs/design/logo.svg)
+### [Himawari sushi](https://github.com/ciaran-io/himawari-sushi)  ![logo](https://github.com/ciaran-io/himawari-sushi/blob/main/docs/design/logo.svg)
 
 ![mockup](https://github.com/ciaran-io/himawari-sushi/blob/main/docs/design/mockup.png)
 
@@ -26,7 +26,7 @@ Himawari Sushi is a full-stack application designed to provide you with a modern
 
 With Himawari Sushi, you're not just ordering food - you're embarking on a culinary journey through Japan from the convenience of your device. Open Monday through Saturday, 13:00pm - 10:00pm, Himawari Sushi offers an easy reservation system through our intuitive app, allowing you to plan your next dining experience with just a few taps. You can explore and order our most popular dishes, and by signing up for our newsletter, you not only stay updated but get discounts on your next meal. Experience a unique blend of tradition and modernity by indulging in the best of what Himawari Sushi has to offer.
 
-### [Freyja Healing](https://github.com/ciaran-io/freyja-healing)
+### [Freyja Healing](https://github.com/ciaran-io/freyja-healing) <img src='https://github.com/ciaran-io/freyja-healing/blob/main/src/public/apple-touch-icon.png' alt='logo' style="height:32px; width:32px; vertical-align:bottom;">
 
 ![mockup](https://github.com/ciaran-io/freyja-healing/blob/main/docs/design/mockup.png)
 
@@ -68,3 +68,15 @@ Freyja Healing makes the path to optimal health more accessible than ever. We ar
 | __Design__ | ![Figma](https://img.shields.io/badge/-Figma-333333?style=flat&logo=figma) ![Affinity Designer](https://img.shields.io/badge/-Affinity%20Designer-333333?style=flat&logo=affinity-designer) ![Eagle](https://img.shields.io/badge/-Eagle-333333?style=flat&logo=eagle) |
 |               |     |
 | __Testing__ | ![Postman](https://img.shields.io/badge/-Postman-333333?style=flat&logo=postman) ![Chrome DevTools](https://img.shields.io/badge/-Chrome%20DevTools-333333?style=flat&logo=google-chrome) ![Firefox Developer Edition](https://img.shields.io/badge/-Firefox%20Developer%20Edition-333333?style=flat&logo=firefox-browser)|
+
+## 📊 GitHub Summary & Stats
+
+<details>
+<summary>Statistics</summary>
+
+  ![ciaran's GitHub stats](https://github-readme-stats.vercel.app/api?username=ciaran-io&rank_icon=github&show_icons=true&bg_color=00000000)
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ciaran-io&layout=donut&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
+  ![Profile Details](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ciaran-io&theme=transparent)
+
+</details>
+

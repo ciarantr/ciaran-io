@@ -11,7 +11,7 @@ Welcome, I'm Ciaran a Full-Stack Developer currently beginning my studies in Com
 ## 🎓 Education
 
 ### Technological University Dublin
-[Information Systems and Information Technology / Córais Faisnéise agus Teicneolaíocht Faisnéise](https://www.tudublin.ie/study/part-time/courses/information-systems-and-information-technology/), 2023 - 2027
+[Information Systems and Information Technology](https://www.tudublin.ie/study/part-time/courses/information-systems-and-information-technology/), 2023 - 2027
 
 ### Code Institute
 Full-Stack Software Development Diploma, 2023 TBA (awaiting final result)

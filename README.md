@@ -1,4 +1,4 @@
-# ✨ Engineering Concepts into Code: Turning Big Ideas into Digital Reality
+s# ✨ Engineering Concepts into Code: Turning Big Ideas into Digital Reality
 
 Hello! 👋 I'm Ciaran, a versatile Full-Stack Developer embarking on an enriching academic journey in Computer Systems Management at Technological University Dublin. My solid foundation in full-stack web development was carefully built at Code Institute, equipping me with a wide spectrum of technical skills.
 
@@ -30,7 +30,7 @@ Full-Stack Software Development Diploma, 2023 TBA (awaiting final result)
 
 ## 📃 Projects
 
-### Elite Fitness ![Elite Fitness logo](https://github.com/ciaran-io/elite-fitness/blob/main/docs/design/elite-fitness-logo.svg)
+### [Elite Fitness](https://github.com/ciaran-io/elite-fitness) ![Elite Fitness logo](https://github.com/ciaran-io/elite-fitness/blob/main/docs/design/elite-fitness-logo.svg)
 
 ![mockup](https://github.com/ciaran-io/elite-fitness/blob/main/docs/design/mockups-high-fidelity/elite-fitness-mockup.png)
 
@@ -42,7 +42,7 @@ Powering beyond a typical e-commerce store, Elite Fitness is a canvas where I we
 
 Elite Fitness is more than an application – it's a testament to the transformative power of modern web technologies, creating a user-centric, highly responsive, and secure web application.
 
-### [Himawari sushi](https://github.com/ciaran-io/himawari-sushi)![logo](https://github.com/ciaran-io/himawari-sushi/blob/main/docs/design/logo.svg)
+### [Himawari sushi](https://github.com/ciaran-io/himawari-sushi) ![logo](https://github.com/ciaran-io/himawari-sushi/blob/main/docs/design/logo.svg)
 
 ![mockup](https://github.com/ciaran-io/himawari-sushi/blob/main/docs/design/mockup.png)
 

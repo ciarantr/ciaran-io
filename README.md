@@ -69,7 +69,7 @@ Through Freyja Healing, I entwine the conveniences of modern technology with the
 - General manager: [Nourish Health Store](https://www.nourish.ie) | January 2019 - March 2020
 - Managin Director: Natural Living Health Store | January 2017 - December 2019
 
-## Roadmap 2024 🗺️
+## 🗺️ Roadmap 2024
 
 ### Foundation Phase 🤓
 1. **Interface Design and Web Development 🎨**

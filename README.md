@@ -1,4 +1,4 @@
-s# ✨ Engineering Concepts into Code: Turning Big Ideas into Digital Reality
+✨ Engineering Concepts into Code: Turning Big Ideas into Digital Reality
 
 Hello! 👋 I'm Ciaran, a versatile Full-Stack Developer embarking on an enriching academic journey in Computer Systems Management at Technological University Dublin. My solid foundation in full-stack web development was carefully built at Code Institute, equipping me with a wide spectrum of technical skills.
 

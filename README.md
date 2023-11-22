@@ -1,38 +1,64 @@
-# ✨ Transforming Big Ideas into Code
+# ✨ Engineering Concepts into Code: Turning Big Ideas into Digital Reality
 
-Welcome, I'm Ciaran a Full-Stack Developer currently beginning my studies in Computer Systems Management with Technological University Dublin, backed by comprehensive full-stack web development training from Code Institute. I leverage strong business management skills earned from my previous experience in running a health food store. 
+Hello! 👋 I'm Ciaran, a versatile Full-Stack Developer embarking on an enriching academic journey in Computer Systems Management at Technological University Dublin. My solid foundation in full-stack web development was carefully built at Code Institute, equipping me with a wide spectrum of technical skills.
+
+Previously, I fine-tuned my business management acumen while managing a successful health food store - an experience that instilled in me strong problem-solving capabilities, tenacity, and a command of operational intricacies.
+As I dive deeper into the world of coding and system management, I'm excited to leverage this unique blend of technical proficiency and business acumen to deliver solutions that are efficient, user-friendly, and optimized for business success.
+
+Feel free to explore my repositories and connect with me on meaningful projects. Welcome to my GitHub! 🚀
 
 ## 💡 Skills and Experience
 
--  🌐 Full-Stack Web Development
--  🗃️ Business Management
--  💻 Studying Computer Systems Management at Technological University Dublin
+💻 Full-Stack Web Development: Proficient in various programming languages and frameworks, committed to building efficient, user-friendly digital solutions.
+
+🗂️ Business Management: Proven track-record in effective business operation from my previous role managing a successful health food store. Skills incorporating strategic planning, project management, and resource allocation.
+
+🎓 Ongoing Education: Currently enhancing my technological expertise with a focus on Computer Systems Management at the renowned Technological University Dublin. This academic pursuit underscores my commitment to continuous professional growth and adaptation in the ever-evolving tech landscape.
 
 ## 🎓 Education
 
 ### Technological University Dublin
-[Information Systems and Information Technology](https://www.tudublin.ie/study/part-time/courses/information-systems-and-information-technology/), 2023 - 2027 **(PT)**
+
+> [!important]
+>
+> Currently, I am pursuing degree in Information Systems and Information Technology on a part-time basis. This allows me the flexibility to commit wholly to a software developer position. The combination of practical software development experience, alongside my academic pursuits, will significantly bolster my expertise and proficiency in the field.
+
+[Information Systems and Information Technology](https://www.tudublin.ie/study/part-time/courses/information-systems-and-information-technology/), 2023 - 2027
 
 ### Code Institute
 Full-Stack Software Development Diploma, 2023 TBA (awaiting final result)
 
 ## 📃 Projects
 
-### [Himawari sushi](https://github.com/ciaran-io/himawari-sushi)  ![logo](https://github.com/ciaran-io/himawari-sushi/blob/main/docs/design/logo.svg)
+### Elite Fitness ![Elite Fitness logo](https://github.com/ciaran-io/elite-fitness/blob/main/docs/design/elite-fitness-logo.svg)
+
+![mockup](https://github.com/ciaran-io/elite-fitness/blob/main/docs/design/mockups-high-fidelity/elite-fitness-mockup.png)
+
+**Elite Fitness** was my final project for Code Insititude to obtain a diploma in full-stack software development. Elite Fitness is a Blend of technology and wellness, setting a distinct standard in online fitness retail. This seamless platform, is built with vairious technologies such as Python, Tailwind CSS, JavaScript, and hosted on Heroku, caters to an array of fitness needs, from health supplements to training equipment and juicers.
+
+The back-end infrastructure leverages AWS for resilient data storage and optimized content delivery, alongside Heroku for seamless application deployment. These choices ensure an efficient, responsive user experience, contributing positively to user engagement and satisfaction.
+
+Powering beyond a typical e-commerce store, Elite Fitness is a canvas where I weave personalized wellness experiences. Be it a novice embarking on a fitness journey or an accomplished athlete seeking advanced performance enhancers, Elite Fitness caters to all with precision.
+
+Elite Fitness is more than an application – it's a testament to the transformative power of modern web technologies, creating a user-centric, highly responsive, and secure web application.
+
+### [Himawari sushi](https://github.com/ciaran-io/himawari-sushi)![logo](https://github.com/ciaran-io/himawari-sushi/blob/main/docs/design/logo.svg)
 
 ![mockup](https://github.com/ciaran-io/himawari-sushi/blob/main/docs/design/mockup.png)
 
-Himawari Sushi is a full-stack application designed to provide you with a modern, seamless dining experience focused on authentic Japanese cuisine. This project is the culmination of my work as a full stack software developer during my diploma program, showcasing my skills in building a fully functional web application from scratch using a variety of technologies and tools.
+Himawari Sushi is a full-stack application designed to provide the user with a modern, seamless dining experience focused on authentic Japanese cuisine. This project is the culmination of my work as a full stack software developer during my diploma program, showcasing my skills in building a fully functional web application from scratch using a variety of technologies and tools.
 
-With Himawari Sushi, you're not just ordering food - you're embarking on a culinary journey through Japan from the convenience of your device. Open Monday through Saturday, 13:00pm - 10:00pm, Himawari Sushi offers an easy reservation system through our intuitive app, allowing you to plan your next dining experience with just a few taps. You can explore and order our most popular dishes, and by signing up for our newsletter, you not only stay updated but get discounts on your next meal. Experience a unique blend of tradition and modernity by indulging in the best of what Himawari Sushi has to offer.
+Himawari Sushi offers an easy reservation system through the intuitive app, allowing users to plan their next dining experience with just a few taps. Uers can explore and order the most popular dishes, and by signing up to the newsletter, users not only stay updated but get discounts on their next meal. Experience a unique blend of tradition and modernity by indulging in the best of what Himawari Sushi has to offer.
 
 ### [Freyja Healing](https://github.com/ciaran-io/freyja-healing) <img src='https://github.com/ciaran-io/freyja-healing/blob/main/src/public/apple-touch-icon.png' alt='logo' style="height:32px; width:32px; vertical-align:bottom;">
 
 ![mockup](https://github.com/ciaran-io/freyja-healing/blob/main/docs/design/mockup.png)
 
-Freyja Healing is a full-stack application and represents the pinnacle of my work as a full-stack software developer. It was meticulously developed as part of my diploma program to exhibit my skills in creating a fully functional web application from the ground up, utilizing various technologies and tools.
+**Freyja Healing** is one of my first application I built to showcase of my proficiency as a full-stack software developer. This application is a testimony to my adeptness in creating fully functional web applications, built With great care and attention to detail using an array of cutting-edge technologies.
 
-Freyja Healing makes the path to optimal health more accessible than ever. We are firm believers in the body's natural healing abilities. However, we also understand that lingering aches and chronic stress sometimes need a guiding hand. That's why our application enables you to book an appointment with our experienced naturopaths, helping you to kick-start your journey towards better health. Empower yourself towards improved wellbeing with Freyja Healing, and experience the comprehensive synergy of modern technology and natural health practices.
+Crafted with Vue.js, and styled using Tailwind CSS, Freyja Healing merges modern tech with health-centricity, making holistic wellness more accessible. Supporting the tech-architecture are Cloudinary and Cloudflare, providing reliable static hosting and security measures respectively, while Nuxt.js ensures an enriched, high-performing user interface.
+
+Through Freyja Healing, I entwine the conveniences of modern technology with the efficacy of natural health practices to empower a more accessible journey towards wellbeing. Freyja is more than an application—it’s a leap forward in integrating health-tech innovations to promote a healthier, happier lifestyle. Experience the power of a comprehensive, tech-fuelled wellness journey with Freyja Healing.
 
 ## 💼 Professional Experience
 

@@ -69,6 +69,23 @@ Through Freyja Healing, I entwine the conveniences of modern technology with the
 - General manager: [Nourish Health Store](https://www.nourish.ie) | January 2019 - March 2020
 - Managin Director: Natural Living Health Store | January 2017 - December 2019
 
+## Roadmap 2024 🗺️
+
+### Foundation Phase 🤓
+1. **Interface Design and Web Development 🎨**
+2. **CS50's Introduction to Computer Science 💻**
+3. **Computer Technology 1 ⚙️**
+4. **Programming Paradigms and Data Structures 📚**
+5. **Introduction to React: Building Dynamic Web Applications 🌐**
+
+### Advanced Phase 🚀
+1. **Computing Fundamentals 2 🧠**
+2. **Object Oriented Programming 🧱**
+3. **Computer Technology 2 ⚙️**
+4. **IOS App Development with Swift 📱**
+5. **Programming and Algorithms 2 📝**
+6. **Database Systems 💾**
+
 ## ⚙️ Technologies
 
 |   Area        | Technologies Used |

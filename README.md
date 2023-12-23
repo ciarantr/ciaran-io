@@ -157,8 +157,8 @@ Through Freyja Healing, I entwine the conveniences of modern technology with the
 
 ## 📊 GitHub Summary & Stats
 
-![ciaran's GitHub stats](https://github-readme-stats.vercel.app/api?username=ciaran-io&rank_icon=github&show_icons=true&theme=blue_navy)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ciaran-io&layout=donut&theme=blue_navy)](https://github.com/anuraghazra/github-readme-stats)
 ![Profile Details](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ciaran-io&theme=transparent)
 
+---
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ciaran-io&layout=donut&theme=blue_navy)](https://github.com/anuraghazra/github-readme-stats)
 

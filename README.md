@@ -1,6 +1,6 @@
 # ✨ Engineering Concepts into Code: Turning Big Ideas into Digital Reality
 
-Hello! 👋 I'm Ciaran, a versatile Full-Stack Developer embarking on an enriching academic journey in Computer Systems Management at Technological University Dublin. My solid foundation in full-stack web development was carefully built at Code Institute, equipping me with a wide spectrum of technical skills.
+Hello! 👋 I'm Ciaran, a versatile Full-Stack Developer embarking on an enriching academic journey in Information Systems and Information Technology at Technological University Dublin. My solid foundation in full-stack web development was carefully built at Code Institute, equipping me with a wide spectrum of technical skills.
 
 Previously, I fine-tuned my business management acumen while managing a successful health food store - an experience that instilled in me strong problem-solving capabilities, tenacity, and a command of operational intricacies.
 As I dive deeper into the world of coding and system management, I'm excited to leverage this unique blend of technical proficiency and business acumen to deliver solutions that are efficient, user-friendly, and optimized for business success.
@@ -13,13 +13,13 @@ Feel free to explore my repositories and connect with me on meaningful projects.
 
 🗂️ **Business Management:** Proven track-record in effective business operation from my previous role managing a successful health food store. Skills incorporating strategic planning, project management, and resource allocation.
 
-🎓 **Ongoing Education:** Currently enhancing my technological expertise with a focus on Computer Systems Management at the renowned Technological University Dublin. This academic pursuit underscores my commitment to continuous professional growth and adaptation in the ever-evolving tech landscape.
+🎓 **Ongoing Education:** Currently enhancing my technological expertise with a focus on  at the renowned Technological University Dublin. This academic pursuit underscores my commitment to continuous professional growth and adaptation in the ever-evolving tech landscape.
 
 ## 🎓 Education
 
 ### [Information Systems and Technology, TU Dublin](https://www.tudublin.ie/study/part-time/courses/information-systems-and-information-technology/) (2023 - 2027)
 
-I am presently enrolled in a part-time program at Technological University Dublin, where I am pursuing a degree in Information Systems and Technology. This flexible schedule allows me to fully dedicate myself to a software developer role while also honing essential knowledge and skills.
+I am presently enrolled in a part-time program at Technological University Dublin, where I am pursuing a B.Sc. in Information Systems and Technology. This flexible schedule allows me to fully dedicate myself to a software developer role while also honing essential knowledge and skills.
 
 The curriculum of my program is meticulously crafted to provide comprehensive coverage of the field. It encompasses crucial subjects such as Programming and Algorithms, Interface Design and Web Development, Object-Oriented Programming, Database Systems, and Computer Communications and Networking.
 

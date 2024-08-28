@@ -71,9 +71,9 @@ During the Full Stack Toolkit Modules, the incorporation of Python, Django, Flas
 
 ## 📃 Projects
 
-### [Elite Fitness](https://github.com/ciaran-io/elite-fitness) ![Elite Fitness logo](https://github.com/ciaran-io/elite-fitness/blob/main/docs/design/elite-fitness-logo.svg)
+### [Elite Fitness](https://github.com/ciaran.tr/elite-fitness) ![Elite Fitness logo](https://github.com/ciaran.tr/elite-fitness/blob/main/docs/design/elite-fitness-logo.svg)
 
-![mockup](https://github.com/ciaran-io/elite-fitness/blob/main/docs/design/mockups-high-fidelity/elite-fitness-mockup.png)
+![mockup](https://github.com/ciaran.tr/elite-fitness/blob/main/docs/design/mockups-high-fidelity/elite-fitness-mockup.png)
 
 **Elite Fitness** was my final project for Code Institute to obtain a diploma in full-stack software development. Elite Fitness is a Blend of technology and wellness, setting a distinct standard in online fitness retail. This seamless platform, is built with various technologies such as Python, Tailwind CSS, JavaScript, and hosted on Heroku, caters to an array of fitness needs, from health supplements to training equipment and juicers.
 
@@ -83,17 +83,17 @@ Powering beyond a typical e-commerce store, Elite Fitness is a canvas where I we
 
 Elite Fitness is more than an application – it's a testament to the transformative power of modern web technologies, creating a user-centric, highly responsive, and secure web application.
 
-### [Himawari sushi](https://github.com/ciaran-io/himawari-sushi) ![logo](https://github.com/ciaran-io/himawari-sushi/blob/main/docs/design/logo.svg)
+### [Himawari sushi](https://github.com/ciaran.tr/himawari-sushi) ![logo](https://github.com/ciaran.tr/himawari-sushi/blob/main/docs/design/logo.svg)
 
-![mockup](https://github.com/ciaran-io/himawari-sushi/blob/main/docs/design/mockup.png)
+![mockup](https://github.com/ciaran.tr/himawari-sushi/blob/main/docs/design/mockup.png)
 
 Himawari Sushi is a full-stack application designed to provide the user with a modern, seamless dining experience focused on authentic Japanese cuisine. This project is the culmination of my work as a full stack software developer during my diploma program, showcasing my skills in building a fully functional web application from scratch using a variety of technologies and tools.
 
 Himawari Sushi offers an easy reservation system through the intuitive app, allowing users to plan their next dining experience with just a few taps. Users can explore and order the most popular dishes, and by signing up to the newsletter, users not only stay updated but get discounts on their next meal. Experience a unique blend of tradition and modernity by indulging in the best of what Himawari Sushi has to offer.ssss
 
-### [Freyja Healing](https://github.com/ciaran-io/freyja-healing) <img src='https://github.com/ciaran-io/freyja-healing/blob/main/src/public/apple-touch-icon.png' alt='logo' style="height:32px; width:32px; vertical-align:bottom;">
+### [Freyja Healing](https://github.com/ciaran.tr/freyja-healing) <img src='https://github.com/ciaran.tr/freyja-healing/blob/main/src/public/apple-touch-icon.png' alt='logo' style="height:32px; width:32px; vertical-align:bottom;">
 
-![mockup](https://github.com/ciaran-io/freyja-healing/blob/main/docs/design/mockup.png)
+![mockup](https://github.com/ciaran.tr/freyja-healing/blob/main/docs/design/mockup.png)
 
 **Freyja Healing** is one of my first application I built to showcase of my proficiency as a full-stack software developer. This application is a testimony to my adeptness in creating fully functional web applications, built With great care and attention to detail using an array of cutting-edge technologies.
 
@@ -103,7 +103,7 @@ Through Freyja Healing, I entwine the conveniences of modern technology with the
 
 ## 💼 Professional Experience
 
-### ![resume icon](https://api.iconify.design/ooui:special-pages-ltr.svg?color=%23888888) [View resume](https://ciaran-io.dev/resume)
+### ![resume icon](https://api.iconify.design/ooui:special-pages-ltr.svg?color=%23888888) [View resume](https://ciaran.tr.dev/resume)
 
 - Web developer: [Love Nature](https://lovenature.ie) | June 2021 - May 2023
 - Career transition to software development : Committed to intensive study, building foundational knowledge of programming principles and languages. | March 2020 - May 2021
@@ -157,8 +157,8 @@ Through Freyja Healing, I entwine the conveniences of modern technology with the
 
 ## 📊 GitHub Summary & Stats
 
-![Profile Details](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ciaran-io&theme=transparent)
+![Profile Details](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ciaran.tr&theme=transparent)
 
 ---
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ciaran-io&layout=donut&theme=blue_navy)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ciaran.tr&layout=donut&theme=blue_navy)](https://github.com/anuraghazra/github-readme-stats)
 
